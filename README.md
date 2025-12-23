@@ -1,2 +1,2 @@
-# car-menu
-Car Menu mod for San Andreas
+## Car Menu & Spawner mod for GTA San Andreas written in JavaScript.
+Features an in-game HUD menu with vehicle utilities (repair, flip, destroy, godmode) and a car spawner with ID cycling and instant spawning. Designed to be lightweight, responsive, and easy to extend.
